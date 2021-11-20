@@ -1,4 +1,4 @@
-### Hellow World 👋 it's me, ~~mario~~ Federico Duca 
+### Hello World 👋 it's me, ~~mario~~ Federico Duca 
 
 <!--
 **federicoduca/federicoduca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
